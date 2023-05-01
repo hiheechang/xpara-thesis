@@ -1,0 +1,11 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: xpara
+  label: Thesis
+links:
+  - text: Homepage
+    link: https://www.xparadigms.com/
+footer:
+  copyright: '&copy; Copyright {{ year }}. All rights reserved.'
